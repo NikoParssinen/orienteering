@@ -1,0 +1,10 @@
+25;20
+Tree;1;11;200;T
+Rock;22;3;500;R
+Boulder;5;5;650;B
+Pond;4;1;340;P
+Distant hut;13;9;800;D
+ROUTES
+Shorter;Tree;Rock;Boulder;Pond
+Longer;Rock;Distant hut;Pond;Tree
+Longer2;Tree;Rock;Boulder;Pond;Distant hut
